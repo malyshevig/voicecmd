@@ -7,12 +7,12 @@ It runs into a cycle until the word 'stop' is said.
 
 
 
-Installation dependencies
+Installation of dependencies
 
-pip3 install -r requirements.txt
+    pip3 install -r requirements.txt
 
 Run
 
-python voice.py
+    python voice.py
 
 
